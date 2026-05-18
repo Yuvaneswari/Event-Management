@@ -53,7 +53,3 @@ Yuvaneswari G
  Chennai, India  
  Computer Science Student  
  MERN Stack Developer | AI Enthusiast  
-
-
-## ⭐ Note
-This project is created for learning frontend development and improving web development skills.
